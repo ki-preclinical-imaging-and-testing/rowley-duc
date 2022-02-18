@@ -11,6 +11,6 @@ Bash script built on `duc` to recursively scan disk usage on a mounted drive and
 ## `duc`
 
 This is just a script to activate `duc`. `duc` has many useful features that
-help visualize data for more effectively management of a specific disk.
+help visualize data for more effective management of data on a specific disk.
 
 You can read more here: https://duc.zevv.nl/
